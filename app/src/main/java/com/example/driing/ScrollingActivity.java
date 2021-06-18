@@ -37,6 +37,7 @@ public class ScrollingActivity extends AppCompatActivity {
     public void open_add_ring(){
         Intent intent = new Intent(this, add_ring.class);
         startActivity(intent);
+        //
     }
 
     @Override
